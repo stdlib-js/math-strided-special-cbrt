@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`07ca4c5`](https://github.com/stdlib-js/stdlib/commit/07ca4c54806085c09b4a9c0fa47892595a7442fe) - **docs:** add missing dtype parameters [(#16650)](https://github.com/stdlib-js/stdlib/pull/16650) _(by Philipp Burckhardt)_
 -   [`be9f744`](https://github.com/stdlib-js/stdlib/commit/be9f7445e37168f514e83041e80e9495c49fd9d9) - **bench:** refactor to use string interpolation in `math/strided/special` [(#11362)](https://github.com/stdlib-js/stdlib/pull/11362) _(by Karan Anand)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
